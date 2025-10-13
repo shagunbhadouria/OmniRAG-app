@@ -1,0 +1,15 @@
+[theme]
+# A bright, professional blue for interactive elements
+primaryColor="#0068C9"
+
+# A clean white background
+backgroundColor="#e9cea5ff"
+
+# A light gray for containers and expanders
+secondaryBackgroundColor="#ac9abcff"
+
+# Dark text for readability
+textColor="#262730"
+
+# Font
+font="sans serif"
